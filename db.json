@@ -1,0 +1,49 @@
+{
+    "insta_posts":[
+        {
+            "caption": "spiderMan",
+            "id": "10",
+            "image_url": "https://i.ibb.co/B3RKZdV/wallpaperflare-com-wallpaper-4.jpg"
+          },
+          {
+            "caption": "Knight",
+            "id": "11",
+            "image_url": "https://i.ibb.co/3vkjjSL/wallpaperflare-com-wallpaper-1.jpg"
+          },
+          {
+            "caption": "SunSet",
+            "id": "12",
+            "image_url": "https://i.ibb.co/d0n8VGz/wallpaperflare-com-wallpaper.jpg"
+          },
+          {
+            "caption": "jungle",
+            "id": "13",
+            "image_url": "https://i.ibb.co/bNv7cBF/wallpaperflare-com-wallpaper-2.jpg"
+          },
+          {
+            "caption": "masai logo",
+            "id": "5",
+            "image_url": "https://i.ibb.co/nwjTrLK/Masai-Logo.jpg"
+          },
+          {
+            "caption": "Ship",
+            "id": "9",
+            "image_url": "https://i.ibb.co/0tfS5g6/e.jpg"
+          },
+          {
+            "caption": "CR-07",
+            "id": "100",
+            "image_url": "https://i.ibb.co/KmscZcv/insta-pic3.png"
+          },
+          {
+            "caption": "Forest",
+            "id": "2",
+            "image_url": "https://i.ibb.co/mtBKpdp/pexels-efdal-yildiz-917494.jpg"
+          },
+          {
+            "caption": "Yash",
+            "id": "44",
+            "image_url": "https://i.ibb.co/jGPmVPQ/insta-pic4-1.png"
+          }
+    ]
+}
